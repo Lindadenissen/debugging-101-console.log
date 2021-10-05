@@ -8,7 +8,7 @@ const array = [
 ];
 
 for (let person of array) {
-  //hier moeten console.logs komen
+  //hier moeten console.logs komen.
   console.log("Dit is de gehele persoon", [person]);
   //console.log("De naam is " + person.name);
   //console.log(person.name + " is geboren in", 2021 - person.age);
